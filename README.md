@@ -13,19 +13,15 @@
     + <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/>
 + ## **개발 개요**
   + ### 개발 기간
-    + #### 2020-10-15 ~ 2020-12-18
+    + #### 2022-05-04 ~ 2020-06-09
   + ### 개발 형태
     + #### 팀 프로젝트
   + ### 개발 인원 및 역할
-    + #### 상명대학교 게임학과 19학번 김다은 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="프로그래머" src ="https://img.shields.io/badge/서브 프로그래머-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/서브 아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
-    + #### 상명대학교 게임학과 19학번 김리아 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/서브 아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
-    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/메인 프로그래머-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
-    + #### 상명대학교 게임학과 19학번 전하은 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/메인 아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
+    + #### 상명대학교 게임학과 19학번 이석호 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/>
+    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
 + ## **게임 상세**
-  + ### 스토리
-    + #### 2xxx년, 지구를 떠날 수밖에 없었던 인류가 정착한 다른 행성이 있다. 그러나 이 행성은 지상에서 살기에는 척박한 환경이라 지상의 위험요소를 피해 지하에 정착하게 되었다. <br><br>어느 날 주인공의 할머니가 실종되고, 할머니의 흔적을 쫓다 우주선의 존재를 알게 된다. 우주선이 할머니의 실종과 관계가 있다는 것을 눈치 챈 주인공을 이를 찾기 위해 지상으로 탐험을 떠난다.
   + ### 핵심 플레이
-    + #### 거주구역 바깥으로 가게 되면 지속적으로 산소 게이지가 줄어들고, 산소 게이지가 모두 줄어들거나 위험 구역으로 가게 되면 HP가 지속적으로 감소하게 된다. 산소 게이지는 맵 곳곳에 있는 산소 충전기 근처에서 충전할 수 있으며, HP는 탐색을 하며 얻는 식량으로 회복할 수 있다. HP가 모두 줄어들기 전에 맵에 있는 모든 스위치를 켜 우주선의 보호막을 해제하는 것이 목표이다.
+    + #### 이 게임은 육성 시뮬레이션 게임으로, 귀여운 슬라임들을 키우는 것이 목표인 게임이다. 이 게임에서 슬라임들의 수명은 플레이어의 걸음 수로 계산된다. 슬라임은 3단계로 이루어져 있으며, 알, 1단계 슬라임, 2단계 슬라임으로 이루어져 있다. 알 상태에서는 슬라임으로 부화시킬 수 있으며, 부화시킬 때까지의 걸음 수가 최대 HP로 결정되고, 걸음 수에 따라 부화하는 슬라임의 종류가 달라진다. 1단계 슬라임으로 부화하면 지속적으로 HP가 감소하며, 감소한 HP는 다시 플레이어가 걸어서 회복시킬 수 있다. HP가 가득 찬 상태에서 걸으면 걸음 수가 누적되며 누적된 걸음 수가 최대 HP의 2배면 2단계 슬라임으로 진화시킬 수 있다. 이러한 단계로 최대한 오랫동안 슬라임을 키우는 것이 목표이다.
   + ### 시연 영상
-    + #### [유튜브 링크](https://youtu.be/MulhF-B_Bl0)
-    + #### [![Video Label](https://user-images.githubusercontent.com/69952837/178147577-0ba07b58-8d36-4bb7-b306-3291cb117f06.PNG)](https://youtu.be/MulhF-B_Bl0)
+    + #### [유튜브 링크](https://youtu.be/2xE5zX1UF-8)
+    + #### [![Video Label](https://user-images.githubusercontent.com/69952837/178147577-0ba07b58-8d36-4bb7-b306-3291cb117f06.PNG)](https://youtu.be/2xE5zX1UF-8)
